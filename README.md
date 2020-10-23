@@ -7,6 +7,7 @@
 I'm a technology enthusiast, passionate about web design, responsive websites, visual basic for applications and software engineering.
 
 Currently, I'm working on some projects built with Excel VBA, and my main purpouse is to collaborate with my birth city, with these projects.
+
 At the same time, I'm building my first website, which is my Portfolio, and I hope to become a fullstack developer sometime.
 
 
