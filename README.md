@@ -10,5 +10,4 @@ Currently, I'm working on some projects built with Excel VBA, and my main purpou
 
 At the same time, I'm building my first website, which is my Portfolio, and I hope to become a fullstack developer sometime.
 
-
--->
+<img src="./imagens/Happy.gif" alt="demo-web" height="425">
