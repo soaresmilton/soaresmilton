@@ -7,7 +7,7 @@
 Welcome to my GitHub profile.
 
 Currently I have been working on several different projects, building my personal brand called SM Code.
-SM Code is an initiative in which I seek to disseminate information, content and quality service regarding programming, so that the maximum number of people have a good experience with the world of technology. I define my mission as: "If I can help at least one person, all my effort will be paying off."
+SM Code is an initiative in which I seek to disseminate information and content regarding programming, so that the maximum number of people have a good experience with the world of technology. I define my mission as: "If I can help at least one person, all my effort will be paying off."
 
  Through the SM Code, I show the projects and studies that I have been practicing and developing in order to improve my technical skills in programming, as well as my development in some <em> soft skills </em> necessary for the job market, such as: communication , visibility, courage, determination and proactivity.
 
