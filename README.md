@@ -6,11 +6,15 @@
 
 Welcome to my GitHub profile.
 
-I have a bachelor's degree in Petroleum Engineering, however, since January 2020, after my graduation, I got to know the world of programming with Python and completely fell in love with this area.
+Currently I have been working on several different projects, building my personal brand called SM Code.
+SM Code is an initiative in which I seek to disseminate information, content and quality service regarding programming, so that the maximum number of people have a good experience with the world of technology. I define my mission as: "If I can help at least one person, all my effort will be paying off."
 
-Since then, I started to study about technologies and every day I identify myself more with this career. Despite having passed a difficult year and being still for a long time, I returned to my studies in October.
+ Through the SM Code, I show the projects and studies that I have been practicing and developing in order to improve my technical skills in programming, as well as my development in some <em> soft skills </em> necessary for the job market, such as: communication , visibility, courage, determination and proactivity.
 
-I redesigned my studies, and now I study assiduously the concepts to become a Web developer. In addition, I develop systems using VBA in Excel and Access
+I have a bachelor's degree in Petroleum Engineering from the Catholic University of Santos, I am completely passionate about programming, games, movies and beers.
+
+I am currently learning about the entire JavaScript ecosystem, studying both Front-End technologies for Web development and NodeJS to act on the server side. In addition, I am interested and intent on learning about: UI / UX Design, SEO, Digital Marketing, Data Structure, Docker, among other subjects and technologies.
+
 
 Check out my other networks by clicking <a href="https://soaresmiltinho.vercel.app/">here</a>.
 
