@@ -10,9 +10,13 @@
 
 ### 😀 About me 
 📚 I am currently studying JavaScrypt and its ecosystem. 
+
 🎓 I have a bachelor's degree in Petroleum Engineering, from Universidade Católica de Santos.
+
 📌 I work as a Freelancer developer.
+
 💻 I am opening a company, called <strong> <a href="https://soaresmiltinho.vercel.app/"> SM Code </a></strong>.
+
 🎯 My personal goal is to become a reference in programming in Brazil.
 
 ### 🤓 Things I like to do:
