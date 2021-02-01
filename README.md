@@ -23,7 +23,7 @@
 - Web Applications
 - Interfaces
 - Record tutorial videos
-- Review code
+- Code review
 
 ### ❤ Things I like to do day-off:
 Besides being passionate about codes and programming languages, I love RPG games, classic books, comedy series and good beers.
