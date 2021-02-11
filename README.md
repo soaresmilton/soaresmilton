@@ -9,7 +9,7 @@
 
 
 ### 😀 About me 
-📚 I am currently studying JavaScrypt and the Front End Web Development ecosystem. 
+📚 I am currently studying JavaScrypt and Front End Web Development ecosystem. 
 
 📚 I am passionate about technologies and UI/UX
 
