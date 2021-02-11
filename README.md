@@ -9,7 +9,9 @@
 
 
 ### 😀 About me 
-📚 I am currently studying JavaScrypt and its ecosystem. 
+📚 I am currently studying JavaScrypt and the Front End Web Development ecosystem. 
+
+📚 I am passionate about technologies and UI/UX
 
 🎓 I have a bachelor's degree in Petroleum Engineering, from Universidade Católica de Santos.
 
