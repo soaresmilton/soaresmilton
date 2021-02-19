@@ -1,4 +1,5 @@
-<img width="80" src="SM-CODE-ICON-AZUL-MAIS.png" />
+<img width="80" align ="center" src="SM-CODE-ICON-AZUL-MAIS.png" />
+
 # 👋🏼 Hi there, I'm Milton Soares 
 
 ## Contact and Social Media
