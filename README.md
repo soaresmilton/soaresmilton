@@ -1,4 +1,5 @@
-# Hi there, I'm Milton Soares <img src="SM-CODE-ICON-AZUL-MAIS.png" />
+<img width="80" src="SM-CODE-ICON-AZUL-MAIS.png" />
+# 👋🏼 Hi there, I'm Milton Soares 
 
 ## Contact and Social Media
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/soaresmilton/)](https://www.linkedin.com/in/soaresmilton/)
