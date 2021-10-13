@@ -9,15 +9,15 @@
 
 
 ### 😀 About me 
-📚 I am currently studying JavaScrypt and Front End Web Development ecosystem. 
+📚 I am currently studying JavaScrypt and this features. 
 
 📚 I am passionate about technologies and UI/UX
 
 🎓 I have a bachelor's degree in Petroleum Engineering, from Universidade Católica de Santos.
 
-📌 I work as a Freelancer developer.
+📌 I pretend to be a FullStack Software Engineer.
 
-💻 I am opening a company, called <strong> <a href="https://soaresmiltinho.vercel.app/"> SM Code </a></strong>.
+💻 I am opening a company, called <strong> <a href="https://www.questmaster.com.br/"> QUEST MASTER </a></strong>.
 
 🎯 My personal goal is to become a reference in programming in Brazil.
 
