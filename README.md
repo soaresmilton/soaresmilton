@@ -30,8 +30,8 @@ Besides being passionate about codes and programming languages, I love RPG games
 
 <div align="center" >
   
-  [![MILTON SOARES github stats](https://github-readme-stats.vercel.app/api?username=soaresmilton&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soaresmilton&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![MILTON SOARES github stats](https://github-readme-stats.vercel.app/api?username=soaresmilton&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soaresmilton&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
