@@ -7,8 +7,6 @@ Feel free to get in touch with me anytime 😁
 [![Youtube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMsbUh0LDOMQCTBdBXwkFiQ/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/soaresmiltinho/)](https://www.instagram.com/soaresmiltinho/)
 
-### Welcome to my GitHub profile.
-
 
 ### 😀 About me 
 📚 I am fullstack web developer.
@@ -34,6 +32,9 @@ Besides being passionate about codes and programming languages, I love RPG games
   
 [![MILTON SOARES github stats](https://github-readme-stats.vercel.app/api?username=soaresmilton&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soaresmilton&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![MILTON SOARES github stats](https://github-readme-stats.vercel.app/api?username=soaresmilton&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soaresmilton&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
