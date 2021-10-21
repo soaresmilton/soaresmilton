@@ -9,26 +9,32 @@
 
 
 ### 😀 About me 
-📚 I am currently studying JavaScrypt and this features. 
+📚 I am fullstack web developer.
 
-📚 I am passionate about technologies and UI/UX
+💻 I am working with JavaScript, Node.JS, React.JS and Mongo DB
 
-🎓 I have a bachelor's degree in Petroleum Engineering, from Universidade Católica de Santos.
+📚 I am passionate about UI web designs 
 
-📌 I pretend to be a FullStack Software Engineer.
-
-💻 I am opening a company, called <strong> <a href="https://www.questmaster.com.br/"> QUEST MASTER </a></strong>.
+🎓 I have a bachelor's degree in Petroleum Engineering, from Universidade Católica de Santos (2019).
 
 🎯 My personal goal is to become a reference in programming in Brazil.
 
 ### 🤓 Things I like to do:
 - Web Applications
-- Interfaces
+- UI Designs
 - Record tutorial videos
-- Code review
 
 ### ❤ Things I like to do day-off:
 Besides being passionate about codes and programming languages, I love RPG games, classic books and comedy series.
 
 
+<div align="center" >
+  
+  [![MILTON SOARES GitHub stats](https://github-readme-stats.vercel.app/api?username=soaresmilton&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![MILTON SOARES github stats](https://github-readme-stats.vercel.app/api?username=soaresmilton&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soaresmilton&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
