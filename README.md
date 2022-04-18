@@ -9,11 +9,13 @@ Feel free to get in touch with me anytime 😁
 
 
 ### 😀 About me 
-📚 I am fullstack web developer.
 
-💻 I am working with JavaScript, Node.JS, React.JS and Mongo DB
 
-📚 I am passionate about UI web designs 
+📚 Passionate about technology
+
+💻 I am learning fullstack web development focused in Node.JS, React.JS, SQL and No SQL databases
+
+📚 I am working with Robotic Process Automation
 
 🎓 I have a bachelor's degree in Petroleum Engineering, from Universidade Católica de Santos (2019).
 
