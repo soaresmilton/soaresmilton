@@ -4,11 +4,11 @@ Hi 👋 My name is Milton Soares
 Web Developer and RPA Analyst
 -------------------------------
 
-I have a degree in Petroleum Engineering from Universidade Católica de Santos, 2019. A technology lover, I started to study technology and programming independently during mid-2020. 
+I have a degree in Petroleum Engineering from Universidade Católica de Santos, 2019. A technology lover, I started to study technology and programming independently during mid-2020.
 
-I have two years experience in VBA/Excel developing automated spreadsheets, interactive dashboards that help in decision making, personalized reports, as well as in the development of management systems aimed at the administrative, financial and accounting sectors. 
+I have two years of experience in VBA/Excel developing automated spreadsheets, interactive dashboards that help in decision making, personalized reports, as well as in the development of management systems aimed at the administrative, financial and accounting sectors.
 
-Currently, I'm working as a trainee in Intelligent Automation at EY, using RPA (Blue Prism, UI Path, Automation Anywhere), Power Platform, SQL Databases, Business Improvement, Agile, DevOps and Design Thinking. 
+Currently, I am a Trainee in Technology Consulting (Intelligent Automation) at EY, using RPA (Blue Prism, UI Path, Automation Anywhere), Power Platform, SQL Databases, Business Improvement, Agile, DevOps and Design Thinking.
 
 Besides, I'm passionate about software engineering and I've been studying Web programming in order to become a Full Stack Engineer using Node.JS, React.JS, Docker, Cloud Services, Git, among other technologies.
 
