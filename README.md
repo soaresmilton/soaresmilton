@@ -1,7 +1,7 @@
 Hi 👋 My name is Milton Soares
 ==============================
 
-Web Developer and RPA Architect
+Web Developer and RPA Analyst
 -------------------------------
 
 I have a degree in Petroleum Engineering from Universidade Católica de Santos, 2019. A technology lover, I started to study technology and programming independently during mid-2020. 
