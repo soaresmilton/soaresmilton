@@ -3,8 +3,9 @@ Welcome to my GitHub Profile
 
 I'm Milton Soares, from Brazil. Baschelor in Petroleum Engineering and a technology lover. 
   
-- Technology Consulting at Ernest Young (EY)
+- Technology Consultor at Ernest Young (EY)
 - Technology enthusiast;
+- Passionate about programming and all it's Power;
 - Self taught learner;
 - Currently working with RPA Development using Microsoft Power Automate Desktop and Power Platform (Power Automate Web, Power Apps and Power BI);
 - Currently studying C# and game development.
