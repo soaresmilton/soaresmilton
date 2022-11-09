@@ -9,6 +9,7 @@ Actually I'm...
 - Self taught learner;
 - Currently working with RPA Development using Microsoft Power Automate Desktop and Power Platform (Power Automate Web, Power Apps and Power BI);
 - Currently studying C# and its development environment (Visual Studio, .NET, Xamarin, Unity, etc);
+- Also studying JavaScript - Node.JS, React.JS and ReactNative
 - I'm Microsoft Certified. I have PL-900 and PL-100.
 
 ### Follow-me in my Socials media
