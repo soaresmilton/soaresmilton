@@ -1,5 +1,11 @@
-I'm Milton Soares, from Brazil. Baschelor in Petroleum Engineering and a technology consultant at EY. 
-I'm currently working as Power Platform Developer and solutions architecture (Microsoft's low-code stack), and studying C# to levarage my Power Platform skills to be a Software Architect and Engineer in the future.
+- Based in Brazil;
+- Intelligent automation consultant @ EY;
+- Power Platform developer and architect;
+4x Microsoft certified (PL-900, PL-100, PL-200, PL600);
+- .NET developer;
+- Bachelor's degree in petroleum engineering (2020);
+- Graduating in information systems;
+
 
 ### Follow-me in my Socials media
 
