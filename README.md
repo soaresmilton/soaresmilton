@@ -2,9 +2,8 @@
 - Intelligent automation consultant @ EY;
 - Power Platform developer and architect;
 - 4x Microsoft certified (PL-900, PL-100, PL-200, PL600);
-- .NET developer;
 - Bachelor's degree in petroleum engineering (2020);
-- Graduating in information systems;
+- Data Science studant;
 
 
 ### Follow-me in my Socials media
