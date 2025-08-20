@@ -3,7 +3,7 @@
 - Power Platform developer and architect;
 - 4x Microsoft certified (PL-900, PL-100, PL-200, PL600);
 - Bachelor's degree in petroleum engineering (2020);
-- Data Science student;
+- Data Science & Machine Learning student;
 
 
 ### Follow-me in my Socials media
