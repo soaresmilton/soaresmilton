@@ -1,7 +1,7 @@
 - Based in Brazil;
 - Intelligent automation consultant @ EY;
 - Power Platform developer and architect;
-- 4x Microsoft certified (PL-900, PL-100, PL-200, PL600);
+- 5x Microsoft certified (PL-900, PL-100, PL-200, PL600 and AI-900);
 - Bachelor's degree in petroleum engineering (2020);
 - Data Science & Machine Learning student;
 
